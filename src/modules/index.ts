@@ -1,2 +1,2 @@
 const a: string = 'hmchah'
-console.log(a)
+console.log(a,'123')
