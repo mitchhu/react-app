@@ -1,2 +1,2 @@
-const a: string = 'hmc'
+const a: string = 'hmchah'
 console.log(a)
